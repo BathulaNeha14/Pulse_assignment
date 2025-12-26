@@ -1,7 +1,7 @@
-*G2 Review Scraper 
+* G2 Review Scraper 
 This project is a Python Selenium-based web scraper that collects customer reviews from G2.com for a given software product within a specified date range.
 
-*The script:
+* The script:
 1.Opens G2 review pages using Selenium
 2.Extracts review title, content, and date
 3.Filters reviews between a start date and end date
